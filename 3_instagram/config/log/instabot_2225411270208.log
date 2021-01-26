@@ -1,0 +1,22 @@
+2021-01-26 07:41:34,479 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-01-26 07:41:34,479 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Program Files\Python38\lib\site-packages\instabot\bot\bot.py
+2021-01-26 07:41:34,480 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2021-01-26 07:41:34,480 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2021-01-26 07:41:34,480 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Code\python_small_apps\3_instagram/config/dhavalsays_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=86432609-b2fe-4627-93a8-47ad958075fe
+- uuid=d644e088-d68c-4241-a896-e329927be414
+- client_session_id=9cec771f-2202-45df-9591-a9b15c514eb1
+- device_id=android-9d428eb58b345423
+2021-01-26 07:41:34,480 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2021-01-26 07:41:35,196 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-01-26 07:41:35,376 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-01-26 07:41:35,377 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'dhavalsays'!
+2021-01-26 07:41:35,377 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Code\python_small_apps\3_instagram/config/dhavalsays.checkpoint
+2021-01-26 07:41:35,577 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/mr_smart_1k/usernameinfo/ returned response: <Response [200]>
+2021-01-26 07:41:36,127 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/codebasicshub/usernameinfo/ returned response: <Response [200]>
+2021-01-26 07:41:37,034 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2021-01-26 07:41:37,034 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Code\python_small_apps\3_instagram/config/dhavalsays.checkpoint
+2021-01-26 07:41:37,034 - instabot version: 0.117.0 (bot) - INFO - Total follows: 1/78
+2021-01-26 07:41:37,035 - instabot version: 0.117.0 (bot) - INFO - Total messages: 1/96
+2021-01-26 07:41:37,035 - instabot version: 0.117.0 (bot) - INFO - Total requests: 15

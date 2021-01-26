@@ -1,0 +1,18 @@
+2021-01-25 21:54:40,477 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-01-25 21:54:40,478 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Program Files\Python38\lib\site-packages\instabot\bot\bot.py
+2021-01-25 21:54:40,479 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2021-01-25 21:54:40,479 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2021-01-25 21:54:40,479 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Code\python_small_apps\3_instagram/config/dhavalsays_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=86432609-b2fe-4627-93a8-47ad958075fe
+- uuid=d644e088-d68c-4241-a896-e329927be414
+- client_session_id=0b6610af-8170-4512-9f30-40fbea05d165
+- device_id=android-9d428eb58b345423
+2021-01-25 21:54:40,491 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2021-01-25 21:54:42,190 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-01-25 21:54:42,454 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-01-25 21:54:42,456 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'dhavalsays'!
+2021-01-25 21:54:42,456 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Code\python_small_apps\3_instagram/config/dhavalsays.checkpoint
+2021-01-25 21:54:42,660 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/dhavalsays/usernameinfo/ returned response: <Response [200]>
+2021-01-25 21:54:43,232 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/847601822/info/ returned response: <Response [200]>
+2021-01-25 21:54:43,512 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/847601822/followers/?rank_token=847601822_d644e088-d68c-4241-a896-e329927be414 returned response: <Response [200]>

@@ -1,0 +1,28 @@
+2021-01-26 07:38:35,803 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-01-26 07:38:35,804 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Program Files\Python38\lib\site-packages\instabot\bot\bot.py
+2021-01-26 07:38:35,804 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2021-01-26 07:38:35,804 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2021-01-26 07:38:35,804 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Code\python_small_apps\3_instagram/config/dhavalsays_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=86432609-b2fe-4627-93a8-47ad958075fe
+- uuid=d644e088-d68c-4241-a896-e329927be414
+- client_session_id=0b6610af-8170-4512-9f30-40fbea05d165
+- device_id=android-9d428eb58b345423
+2021-01-26 07:38:35,806 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2021-01-26 07:38:40,507 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-01-26 07:38:40,696 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-01-26 07:38:40,906 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2021-01-26 07:38:41,028 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2021-01-26 07:38:41,464 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2021-01-26 07:38:41,811 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2021-01-26 07:38:42,272 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2021-01-26 07:38:42,379 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2021-01-26 07:38:43,777 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2021-01-26 07:38:43,779 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'dhavalsays'!
+2021-01-26 07:38:43,779 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Code\python_small_apps\3_instagram/config/dhavalsays.checkpoint
+2021-01-26 07:39:03,243 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2021-01-26 07:39:03,351 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2021-01-26 07:39:03,351 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'yoda.jpg' is uploaded.
+2021-01-26 07:39:03,351 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Code\python_small_apps\3_instagram/config/dhavalsays.checkpoint
+2021-01-26 07:39:03,351 - instabot version: 0.117.0 (bot) - INFO - Total follows: 1/79
+2021-01-26 07:39:03,352 - instabot version: 0.117.0 (bot) - INFO - Total requests: 8

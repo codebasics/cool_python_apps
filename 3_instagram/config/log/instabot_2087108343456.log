@@ -1,0 +1,61 @@
+2021-01-25 21:44:25,157 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-01-25 21:44:25,157 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Program Files\Python38\lib\site-packages\instabot\bot\bot.py
+2021-01-25 21:44:25,158 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2021-01-25 21:44:25,299 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2021-01-25 21:44:25,395 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-01-25 21:44:25,495 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-01-25 21:44:25,637 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2021-01-25 21:44:27,871 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2021-01-25 21:44:27,872 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'dhavalsays'!
+2021-01-25 21:44:27,872 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2021-01-25 21:44:28,131 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-01-25 21:44:28,266 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-01-25 21:44:28,421 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-9d428eb58b345423&token_hash=&custom_device_id=android-9d428eb58b345423&fetch_reason=token_expired returned response: <Response [200]>
+2021-01-25 21:44:28,564 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2021-01-25 21:44:28,690 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-01-25 21:44:29,207 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: igtv/browse_feed/?prefetch=1 returned response: <Response [200]>
+2021-01-25 21:44:29,788 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+2021-01-25 21:44:30,204 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-01-25 21:44:33,524 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-01-25 21:44:33,657 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2021-01-25 21:44:34,426 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/ returned response: <Response [200]>
+2021-01-25 21:44:34,592 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+2021-01-25 21:44:34,861 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+2021-01-25 21:44:34,985 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+2021-01-25 21:44:35,096 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/branded_content/should_require_professional_account/ returned response: <Response [200]>
+2021-01-25 21:44:35,233 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: linked_accounts/get_linkage_status/ returned response: <Response [200]>
+2021-01-25 21:44:35,354 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: locations/request_country/ returned response: <Response [200]>
+2021-01-25 21:44:35,491 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: qp/get_cooldowns/?signed_body=signed_body=4b9c516a5410a3bc128e09c6104a7f042146b9c2023870560c63a43a7f66781c.4&ig_sig_key_version=4&ig_sig_key_version=4 returned response: <Response [200]>
+2021-01-25 21:44:35,622 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/arlink_download_info/?version_override=2.2.1 returned response: <Response [200]>
+2021-01-25 21:44:35,942 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/847601822/info/ returned response: <Response [200]>
+2021-01-25 21:44:36,202 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2021-01-25 21:44:36,660 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20 returned response: <Response [200]>
+2021-01-25 21:44:36,818 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&persistentBadging=true&limit=0 returned response: <Response [200]>
+2021-01-25 21:44:38,334 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: discover/topical_explore/?is_prefetch=true&omit_cover_media=true&use_sectional_payload=true&timezone_offset=0&session_id=0b6610af-8170-4512-9f30-40fbea05d165&include_fixed_destinations=true returned response: <Response [200]>
+2021-01-25 21:44:38,457 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: notifications/badge/ returned response: <Response [200]>
+2021-01-25 21:44:38,752 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qp/batch_fetch/ returned response: <Response [200]>
+2021-01-25 21:44:38,754 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Code\python_small_apps\3_instagram/config/dhavalsays.checkpoint
+2021-01-25 21:44:42,051 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/elonrmuskk/usernameinfo/ returned response: <Response [200]>
+2021-01-25 21:44:42,712 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 4236812322.
+2021-01-25 21:44:42,712 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "4236812322", "radio_type": "wifi-none", "device_id": "android-9d428eb58b345423", "_uuid": "d644e088-d68c-4241-a896-e329927be414", "_uid": "847601822", "_csrftoken": "Wi7zDFCOF6K0DkurOqQ84QQpukN5vdHt"}
+2021-01-25 21:44:43,205 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/4236812322/ returned response: <Response [200]>
+2021-01-25 21:44:43,205 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 4236812322.
+2021-01-25 21:44:43,436 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/847601822/info/ returned response: <Response [200]>
+2021-01-25 21:44:43,650 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/847601822/following/?max_id=&ig_sig_key_version=4&rank_token=847601822_d644e088-d68c-4241-a896-e329927be414 returned response: <Response [200]>
+2021-01-25 21:45:41,425 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2021-01-25 21:45:41,538 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2021-01-25 21:45:41,539 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'computer.jpg' is uploaded.
+2021-01-25 21:49:37,467 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/dhavalsays/usernameinfo/ returned response: <Response [408]>
+2021-01-25 21:49:37,467 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b''
+2021-01-25 21:49:37,467 - instabot version: 0.117.0 (api) - ERROR - Request returns 408 error!
+2021-01-25 21:49:37,467 - instabot version: 0.117.0 (api) - ERROR - Error checking for `feedback_required`, response text is not JSON
+2021-01-25 21:49:37,467 - instabot version: 0.117.0 (api) - INFO - Full Response: <Response [408]>
+2021-01-25 21:49:37,468 - instabot version: 0.117.0 (api) - INFO - Response Text: 
+2021-01-25 21:49:37,468 - instabot version: 0.117.0 (api) - ERROR - Error unknown send request
+2021-01-25 21:50:38,049 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/None/info/ returned response: <Response [408]>
+2021-01-25 21:50:38,049 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b''
+2021-01-25 21:50:38,050 - instabot version: 0.117.0 (api) - ERROR - Request returns 408 error!
+2021-01-25 21:50:38,050 - instabot version: 0.117.0 (api) - ERROR - Error checking for `feedback_required`, response text is not JSON
+2021-01-25 21:50:38,050 - instabot version: 0.117.0 (api) - INFO - Full Response: <Response [408]>
+2021-01-25 21:50:38,050 - instabot version: 0.117.0 (api) - INFO - Response Text: 
+2021-01-25 21:50:38,050 - instabot version: 0.117.0 (api) - ERROR - Error unknown send request

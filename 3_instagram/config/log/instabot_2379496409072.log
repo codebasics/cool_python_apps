@@ -1,0 +1,49 @@
+2021-01-25 22:10:32,270 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-01-25 22:10:32,271 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Program Files\Python38\lib\site-packages\instabot\bot\bot.py
+2021-01-25 22:10:32,271 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2021-01-25 22:10:32,272 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2021-01-25 22:10:32,272 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Code\python_small_apps\3_instagram/config/dhavalsays_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=86432609-b2fe-4627-93a8-47ad958075fe
+- uuid=d644e088-d68c-4241-a896-e329927be414
+- client_session_id=0b6610af-8170-4512-9f30-40fbea05d165
+- device_id=android-9d428eb58b345423
+2021-01-25 22:10:32,272 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2021-01-25 22:10:34,070 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-01-25 22:10:34,366 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-01-25 22:10:34,368 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'dhavalsays'!
+2021-01-25 22:10:34,369 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Code\python_small_apps\3_instagram/config/dhavalsays.checkpoint
+2021-01-25 22:10:34,601 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/dhavalsays/usernameinfo/ returned response: <Response [200]>
+2021-01-25 22:10:35,546 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/847601822/info/ returned response: <Response [200]>
+2021-01-25 22:10:35,846 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/847601822/followers/?rank_token=847601822_d644e088-d68c-4241-a896-e329927be414 returned response: <Response [200]>
+2021-01-25 22:10:36,052 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/3177115706/info/ returned response: <Response [200]>
+2021-01-25 22:10:38,765 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/mr_smart_1k/usernameinfo/ returned response: <Response [200]>
+2021-01-25 22:10:39,327 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/codebasicshub/usernameinfo/ returned response: <Response [200]>
+2021-01-25 22:10:40,782 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2021-01-25 22:11:54,036 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/847601822/info/ returned response: <Response [200]>
+2021-01-25 22:11:54,296 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/847601822/following/?max_id=&ig_sig_key_version=4&rank_token=847601822_d644e088-d68c-4241-a896-e329927be414 returned response: <Response [200]>
+2021-01-25 22:11:54,297 - instabot version: 0.117.0 (bot_unfollow) - INFO - Going to unfollow 6 users.
+2021-01-25 22:11:54,562 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/202568972/info/ returned response: <Response [200]>
+2021-01-25 22:11:54,562 - instabot version: 0.117.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 202568972 with username highcarbhealth.
+2021-01-25 22:11:58,713 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/destroy/202568972/ returned response: <Response [200]>
+2021-01-25 22:11:58,713 - instabot version: 0.117.0 (bot_unfollow) - INFO - Unfollowed `user_id` 202568972 with username highcarbhealth
+2021-01-25 22:11:59,338 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/2257515917/info/ returned response: <Response [200]>
+2021-01-25 22:11:59,338 - instabot version: 0.117.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 2257515917 with username thebetterindia.
+2021-01-25 22:14:05,196 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/destroy/2257515917/ returned response: <Response [200]>
+2021-01-25 22:14:05,196 - instabot version: 0.117.0 (bot_unfollow) - INFO - Unfollowed `user_id` 2257515917 with username thebetterindia
+2021-01-25 22:14:05,480 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/38272739488/info/ returned response: <Response [200]>
+2021-01-25 22:14:05,480 - instabot version: 0.117.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 38272739488 with username codebasicshub.
+2021-01-26 07:23:49,112 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/destroy/38272739488/ returned response: <Response [200]>
+2021-01-26 07:23:49,112 - instabot version: 0.117.0 (bot_unfollow) - INFO - Unfollowed `user_id` 38272739488 with username codebasicshub
+2021-01-26 07:23:49,427 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/847601822/info/ returned response: <Response [200]>
+2021-01-26 07:23:49,595 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/847601822/following/?max_id=&ig_sig_key_version=4&rank_token=847601822_d644e088-d68c-4241-a896-e329927be414 returned response: <Response [200]>
+2021-01-26 07:23:50,128 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/4236812322/info/ returned response: <Response [200]>
+2021-01-26 07:23:50,128 - instabot version: 0.117.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 4236812322 with username elonrmuskk.
+2021-01-26 07:30:41,865 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/destroy/4236812322/ returned response: <Response [200]>
+2021-01-26 07:30:41,865 - instabot version: 0.117.0 (bot_unfollow) - INFO - Unfollowed `user_id` 4236812322 with username elonrmuskk
+2021-01-26 07:30:42,223 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/237576418/info/ returned response: <Response [200]>
+2021-01-26 07:30:42,223 - instabot version: 0.117.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 237576418 with username doctor.alex.king.
+2021-01-26 07:35:51,390 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/destroy/237576418/ returned response: <Response [200]>
+2021-01-26 07:35:51,391 - instabot version: 0.117.0 (bot_unfollow) - INFO - Unfollowed `user_id` 237576418 with username doctor.alex.king
+2021-01-26 07:35:51,798 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/3050616620/info/ returned response: <Response [200]>
+2021-01-26 07:35:51,798 - instabot version: 0.117.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 3050616620 with username colitiscrohnsrecoverycenter.

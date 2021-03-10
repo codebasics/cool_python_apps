@@ -1,12 +1,12 @@
 from instabot import Bot
 bot = Bot()
-bot.login(username="", password="")
+bot.login(username="faraaz_temp", password="faraaz")
 
 ######  upload a picture #######
 bot.upload_photo("yoda.jpg", caption="biscuit eating baby")
 
 ######  follow someone #######
-bot.follow("elonrmuskk")
+bot.follow("faraaz_bhai78")
 
 ######  send a message #######
 bot.send_message("Hello from Dhaval", ['user1','user2'])
@@ -15,5 +15,3 @@ bot.send_message("Hello from Dhaval", ['user1','user2'])
 my_followers = bot.get_user_followers("dhavalsays")
 for follower in my_followers:
     print(follower)
-
-bot.unfollow_everyone()
